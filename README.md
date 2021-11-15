@@ -9,7 +9,7 @@ Stock Price Time Series Forecasting &amp; Twitter Sentiment Analysis
 **Python Version** 3.8.10 <br>
 **Packages** streamlit, pandas, numpy, regex, datetime, yfinance, fbprophet, plotly.graph_objs, textblob, wordcloud<br>
 **Accessing Twitter API** https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api <br>
-**References** - https://github.com/python-engineer/python-fun/tree/master/stockprediction
+**References** - https://github.com/python-engineer/python-fun/tree/master/stockprediction <br>
 **fbprophet documentation** - https://pypi.org/project/fbprophet/ <br>
 **Tweepy documentation** - https://docs.tweepy.org/en/latest/ <br>
 **Twitter Sentiment Analysis** - 'Computer Science' youtube channel - https://www.youtube.com/watch?v=ujId4ipkBio <br>
